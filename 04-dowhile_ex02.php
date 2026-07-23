@@ -20,7 +20,9 @@ do {
     $valorCarroMontado = rand(70000, 10000);
 
 
-    echo(" <br> Cor do carro: $corCarroMontado . <br>");
+    echo(" <br> 
+    
+    Cor do carro: $corCarroMontado . <br>");
     echo("Valor do carro: $valorCarroMontado . <br>");
 
 
